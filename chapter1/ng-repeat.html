@@ -1,0 +1,27 @@
+<html lang="en" ng-app ng-controller="contactCtrl" >
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+        <link href="css/bootstrap.css"type="text/css" rel="stylesheet"/>
+
+    </head>
+<body>
+<ul>
+    <li ng-repeat="contact in contacts">
+        {{contact.name }}<br>
+        {{contact.email}}
+    </li>
+</ul>
+<div ng-class="{'text-center':center,'text-danger':error}">
+    Lorem ipsum dolor sit amet
+</div>
+<label><input type="checkbox" ng-model="center">text-center</label>
+<label><input type="checkbox" ng-model="error">text-danger</label>
+<label><input type="checkbox" ng-model="styler">ng-style </label>
+<p ng-style="styleDemo()">
+    Lorem ipsum dolor sit amet
+</p>
+<script src="js/angular.min.js"></script>
+<script src="js/controller.js"></script>
+</body>
+</html>

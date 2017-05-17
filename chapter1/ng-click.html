@@ -1,0 +1,26 @@
+<html lang="en" ng-app ng-controller="AppCtl" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<div ng-init="test='Hello, World'"></div>
+{{test}}
+<div>
+<button ng-click="clickHandler()">Click Me</button>
+</div>
+<p><!--
+    <button ng-mouseover="clickHandler()">Over me</button>
+-->
+</p>
+<div ng-hide="isHidden">
+    Click the button
+</div>
+<div ng-if="!isHidden">
+    Click the button
+</div>
+<script src="js/angular.min.js"></script>
+<script src="js/controller.js"></script>
+</body>
+</html>
