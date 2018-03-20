@@ -3,10 +3,12 @@
  */
 function AppCtl($scope) {
    $scope.clickHandler=function () {
-       alert("Clicked");
+       //alert("Clicked");
 
        $scope.isHidden=!$scope.isHidden;
+
    }
+
 }
 function contactCtrl($scope){
     $scope.contacts=[
