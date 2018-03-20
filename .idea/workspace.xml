@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="efba137d-3a61-474a-955d-651a9fe75d7d" name="Default" comment="isHidden Button CHECK">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter1/js/controller.js" afterPath="$PROJECT_DIR$/chapter1/js/controller.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1/ng-click.html" afterPath="$PROJECT_DIR$/chapter1/ng-click.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,17 +16,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="controller.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter1/js/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
+            <state relative-caret-position="651">
               <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ng-click.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ng-click.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter1/ng-click.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="183">
@@ -237,12 +235,20 @@
       <workItem from="1495010171993" duration="8787000" />
       <workItem from="1495027470980" duration="2463000" />
       <workItem from="1495033775075" duration="192000" />
-      <workItem from="1521571196036" duration="516000" />
+      <workItem from="1521571196036" duration="659000" />
     </task>
+    <task id="LOCAL-00001" summary="isHidden Button CHECK">
+      <created>1521571722730</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521571722730</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12273000" />
+    <option name="totallyTimeSpent" value="12416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="75" width="1920" height="1005" extended-state="0" />
@@ -363,18 +369,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter1/js/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/ng-click.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
           <folding />
         </state>
       </provider>
