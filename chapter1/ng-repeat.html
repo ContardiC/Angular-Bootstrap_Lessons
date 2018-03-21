@@ -8,20 +8,11 @@
 <body>
 <ul>
     <li ng-repeat="contact in contacts">
-        {{contact.name }}<br>
-        {{contact.email}}
+        {{contact.name}}
     </li>
 </ul>
-<div ng-class="{'text-center':center,'text-danger':error}">
-    Lorem ipsum dolor sit amet
-</div>
-<label><input type="checkbox" ng-model="center">text-center</label>
-<label><input type="checkbox" ng-model="error">text-danger</label>
-<label><input type="checkbox" ng-model="styler">ng-style </label>
-<p ng-style="styleDemo()">
-    Lorem ipsum dolor sit amet
-</p>
+
 <script src="js/angular.min.js"></script>
-<script src="js/controller.js"></script>
+<script src="js/ng-repeat.js"></script>
 </body>
 </html>
