@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efba137d-3a61-474a-955d-651a9fe75d7d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter1/js/ng-style.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -246,7 +245,7 @@
       <workItem from="1495027470980" duration="2463000" />
       <workItem from="1495033775075" duration="192000" />
       <workItem from="1521571196036" duration="1269000" />
-      <workItem from="1521656364213" duration="2243000" />
+      <workItem from="1521656364213" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="isHidden Button CHECK">
       <created>1521571722730</created>
@@ -276,11 +275,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521658317192</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ng-style">
+      <created>1521658673203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521658673203</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15269000" />
+    <option name="totallyTimeSpent" value="15285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="882" y="0" width="1045" height="1047" extended-state="0" />
@@ -316,7 +322,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="isHidden Button CHECK" />
     <MESSAGE value="ng-class" />
-    <option name="LAST_COMMIT_MESSAGE" value="ng-class" />
+    <MESSAGE value="ng-style" />
+    <option name="LAST_COMMIT_MESSAGE" value="ng-style" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
