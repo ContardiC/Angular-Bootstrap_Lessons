@@ -4,35 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efba137d-3a61-474a-955d-651a9fe75d7d" name="Default" comment="module">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter1-2-3/js/module.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter1-2-3/module.html" />
+    <list default="true" id="efba137d-3a61-474a-955d-651a9fe75d7d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap-theme.css" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap-theme.css.map" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap-theme.min.css" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap-theme.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap.css" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/chapter1-2-3/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/filter-html.html" afterPath="$PROJECT_DIR$/chapter1-2-3/filter-html.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/filter-js.html" afterPath="$PROJECT_DIR$/chapter1-2-3/filter-js.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/index.html" afterPath="$PROJECT_DIR$/chapter1-2-3/index.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/angular.min.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/angular.min.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/controller.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/controller.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/filter-html.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/filter-html.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/filter-js.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/filter-js.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/jquery-3.2.1.min.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/ng-class.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/ng-class.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/ng-repeat.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/ng-repeat.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/js/ng-style.js" afterPath="$PROJECT_DIR$/chapter1-2-3/js/ng-style.js" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/module.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/ng-class.html" afterPath="$PROJECT_DIR$/chapter1-2-3/ng-class.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/ng-click.html" afterPath="$PROJECT_DIR$/chapter1-2-3/ng-click.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/ng-repeat.html" afterPath="$PROJECT_DIR$/chapter1-2-3/ng-repeat.html" />
-      <change beforePath="$PROJECT_DIR$/chapter1-2/ng-style.html" afterPath="$PROJECT_DIR$/chapter1-2-3/ng-style.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,8 +82,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chapter1-2-3/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="6555" column="18" lean-forward="true" selection-start-line="6555" selection-start-column="18" selection-end-line="6555" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="6551" column="12" lean-forward="true" selection-start-line="6551" selection-start-column="12" selection-end-line="6551" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -164,8 +137,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="793" />
+    <option name="width" value="1134" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -323,7 +296,7 @@
       <workItem from="1495033775075" duration="192000" />
       <workItem from="1521571196036" duration="1269000" />
       <workItem from="1521656364213" duration="2892000" />
-      <workItem from="1521703798163" duration="2207000" />
+      <workItem from="1521703798163" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="isHidden Button CHECK">
       <created>1521571722730</created>
@@ -381,25 +354,31 @@
       <option name="project" value="LOCAL" />
       <updated>1521704922146</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="module">
+      <created>1521706024870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521706024870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18125000" />
+    <option name="totallyTimeSpent" value="19037000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="793" y="0" width="1134" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21816283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19069344" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869378" sideWeight="0.49582464" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.49582464" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32869378" sideWeight="0.50417536" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.50364965" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.49635038" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37892377" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37870473" sideWeight="0.49635038" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -661,8 +640,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter1-2-3/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="6555" column="18" lean-forward="true" selection-start-line="6555" selection-start-column="18" selection-end-line="6555" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="6551" column="12" lean-forward="true" selection-start-line="6551" selection-start-column="12" selection-end-line="6551" selection-end-column="12" />
           <folding />
         </state>
       </provider>
