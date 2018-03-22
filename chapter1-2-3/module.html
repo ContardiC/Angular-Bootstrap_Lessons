@@ -1,0 +1,21 @@
+<html lang="en" ng-app="contactsMgr" ng-controller="contactsCtrl" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/bootstrap.css"type="text/css" rel="stylesheet"/>
+
+</head>
+<body>
+<ul>
+    <li ng-repeat="contact in contacts">
+        {{contact.name}}
+    </li>
+</ul>
+<div>
+    {{'Lorem ipsum dolor sit amet'|truncate:10}}
+</div>
+<script src="js/angular.min.js"></script>
+
+<script src="js/module.js"></script>
+</body>
+</html>
