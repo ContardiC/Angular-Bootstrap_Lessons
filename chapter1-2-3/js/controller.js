@@ -6,7 +6,7 @@ function AppCtl($scope) {
        //alert("Clicked");
 
        $scope.isHidden=!$scope.isHidden;
-
+       window.alert("Cambio visibilità");
    }
 
 }
