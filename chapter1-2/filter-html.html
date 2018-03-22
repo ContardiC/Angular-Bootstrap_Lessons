@@ -1,0 +1,19 @@
+<html lang="en" ng-app ng-controller="contactCtrl" >
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="css/bootstrap.css"type="text/css" rel="stylesheet"/>
+
+</head>
+<body>
+<input type="text" ng-model="search.name">
+<ul>
+    <li ng-repeat="contact in contacts|filter:search">
+        {{contact.name}}-{{contact.email}}
+    </li>
+</ul>
+
+<script src="js/angular.min.js"></script>
+<script src="js/ng-repeat.js"></script>
+</body>
+</html>
